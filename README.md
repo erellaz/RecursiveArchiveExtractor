@@ -5,11 +5,12 @@
 <h1 align="center">Recursive Archive Extractor</h1>
 
 <p align="center">
-  A small Windows-friendly Tkinter GUI that recursively finds archives in a folder tree<br>
+  A friendly GUI that recursively finds archives in a folder tree<br>
   and extracts them all in parallel.
 </p>
 
 ---
+![recursiveunzip](recursiveunzip.png)
 
 ## Features
 
